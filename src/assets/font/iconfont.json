@@ -1,0 +1,44 @@
+{
+  "id": "1868905",
+  "name": "O2OshopAdmin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "129261",
+      "name": "users",
+      "font_class": "users",
+      "unicode": "e8b8",
+      "unicode_decimal": 59576
+    },
+    {
+      "icon_id": "1565789",
+      "name": "25单据",
+      "font_class": "danju",
+      "unicode": "e78c",
+      "unicode_decimal": 59276
+    },
+    {
+      "icon_id": "1727367",
+      "name": "28体积、空间",
+      "font_class": "tijikongjian",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "6751082",
+      "name": "06商品",
+      "font_class": "shangpin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8385349",
+      "name": "406报表",
+      "font_class": "baobiao",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    }
+  ]
+}
