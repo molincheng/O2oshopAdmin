@@ -38,16 +38,12 @@ import {
     Cascader,
     Alert,
     Tabs,
-<<<<<<< HEAD
     TabPane,
     Steps,
     Step,
     CheckboxGroup,
     Checkbox,
     Upload
-=======
-    TabPane
->>>>>>> 90647bbc78b9b510bf220f90933312b4fc95565c
 } from 'element-ui'
 
 Vue.use(Button)
@@ -81,13 +77,10 @@ vue.use(Cascader)
 Vue.use(Alert)
 Vue.use(Tabs)
 Vue.use(TabPane)
-<<<<<<< HEAD
 vue.use(Steps)
 vue.use(Step)
 vue.use(CheckboxGroup)
 vue.use(Checkbox)
 vue.use(Upload)
-=======
->>>>>>> 90647bbc78b9b510bf220f90933312b4fc95565c
 Vue.prototype.$message = Message
 Vue.prototype.$confirm = MessageBox.confirm
