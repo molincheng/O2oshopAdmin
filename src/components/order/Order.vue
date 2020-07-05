@@ -135,9 +135,7 @@ export default {
       this.addresVisible = true
     },
     addressDialogClosed() {
-      this.addredForm.addres1 = ''
-      this.addredForm.addres2 = ''
-      this.$refs.addredFormRef.reseFields()
+      this.$refs.addredFormRef.resetFields()
     },
     async showProgressBox() {
       const { data: res } = await this.$http.get('/kuaidi/1106975712662')
